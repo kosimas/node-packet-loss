@@ -1,0 +1,23 @@
+{
+  "name": "node-packet-loss",
+  "version": "1.0.0",
+  "description": "A libary to track Packet Loss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosimas/node-packet-loss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kosimas/node-packet-loss/issues"
+  },
+  "homepage": "https://github.com/kosimas/node-packet-loss#readme",
+  "dependencies": {
+    "date-and-time": "^0.14.2"
+  }
+}
